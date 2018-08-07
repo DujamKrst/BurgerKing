@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Burger",
+    "\\src\\components\\Burger\\BuildControls",
+    "\\src\\components\\Burger\\BuildControls\\BuildControl",
+    "\\src\\components\\Burger\\BuildControls\\BuildControls.css",
+    "\\src\\components\\Burger\\BurgerIngredient",
+    "\\src\\components\\Layout",
+    "\\src\\containers"
+  ],
+  "SelectedNode": "\\src\\components\\Burger\\BuildControls\\BuildControls.js",
+  "PreviewInSolutionExplorer": false
+}
